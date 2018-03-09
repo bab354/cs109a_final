@@ -1,2 +1,2 @@
 # cs109a_final
-Final project to predict crime rates in MSA
+This project was completed by Blake Barr and Lekshmi Santhosh in Fall 2017 for Harvard's CS 109 (Data Science A) Course.  The problem was to try to predict future crime rate in Urban Areas in the United States. We created several notebooks that import and clean data, visualize the raw data, and then train and validate various algorithms in order to minimize the MSE when predicting crime rate in recent years.
